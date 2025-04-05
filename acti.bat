@@ -1,0 +1,1 @@
+py126\Scripts\activate
